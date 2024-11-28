@@ -3,7 +3,7 @@ name: Build and Deploy Advent Calendar
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
