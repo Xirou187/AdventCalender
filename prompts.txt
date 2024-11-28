@@ -9,4 +9,3 @@
 - when i go to the deployment i see the artifact yet it doesnt save it in the repository
 - i dont have a gh-pages branch i only have my master branch
 - die jar datei lässt sich nicht ausführen wenn ich sie mit cmd starte sagt er dass es die main methode nicht findet
--
