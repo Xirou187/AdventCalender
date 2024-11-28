@@ -1,3 +1,12 @@
 - Erstelle mir einen JavaFX Controller, JavaFX Application und eine dazugehörige FXML Datei für ein kleines Adventskalender Projekt bei dem 24 Buttons sind welche jeweils ein bild öffnet wenn man darauf klickt. Sorge auch dafür dass es halbwegs gut aussieht.
 - Kannst du es mir bitte nur in der Application klasse schreiben ohne fxml und controller
+- My deployment has been failed because i use a deprecated version of `actions/upload-artifact: v2`
+- It still doesnt work, do i have to create an environment in github?
+- my commit gets a failure with this message remote: Permission to Xirou187/AdventCalender.git denied to github-actions[bot].
+- my push gets rejected with this failure remote: Support for password authentication was removed on August 13, 2021. remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication. fatal: Authentication failed for 'https://github.com/Xirou187/AdventCalender.git/' Error: Action failed with "The process '/usr/bin/git' failed with exit code 128"
+- I have made the repository token and want to push but it doesnt let me, how do i fix this
+- I still get the error message and it wont let me deploy
+- when i go to the deployment i see the artifact yet it doesnt save it in the repository
+- i dont have a gh-pages branch i only have my master branch
+- die jar datei lässt sich nicht ausführen wenn ich sie mit cmd starte sagt er dass es die main methode nicht findet
 -
