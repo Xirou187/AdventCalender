@@ -1,0 +1,3 @@
+- Erstelle mir einen JavaFX Controller, JavaFX Application und eine dazugehörige FXML Datei für ein kleines Adventskalender Projekt bei dem 24 Buttons sind welche jeweils ein bild öffnet wenn man darauf klickt. Sorge auch dafür dass es halbwegs gut aussieht.
+- Kannst du es mir bitte nur in der Application klasse schreiben ohne fxml und controller
+-
