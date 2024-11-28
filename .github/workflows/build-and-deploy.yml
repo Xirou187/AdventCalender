@@ -3,7 +3,7 @@ name: Build and Deploy Advent Calendar
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
@@ -31,7 +31,7 @@ jobs:
           cp target/*.jar docs/downloads/advent-calendar.jar
 
       - name: Upload JAR artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: advent-calendar-jar
           path: docs/downloads/advent-calendar.jar
@@ -45,7 +45,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Download JAR artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
           name: advent-calendar-jar
           path: ./docs/downloads
